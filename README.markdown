@@ -20,6 +20,13 @@ This is a bash client for <http://api.dotblock.com/>.
       server-shutdown <serverid> : Shutdown <serverid>
 
 
+## Install
+
+    wget https://github.com/dotblock/dotblock-api-bash/raw/master/bin/dotblock-api
+    chmod +x dotblock-api
+    sudo mv dotblock-api /usr/local/bin
+
+
 ## License
 
 MIT License, see LICENSE in this repo.
